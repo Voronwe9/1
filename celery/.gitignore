@@ -1,0 +1,7 @@
+/.idea
+/venv
+/__pycache__/
+/.vscode
+/main.cpython-311.pyc
+/start.md
+
